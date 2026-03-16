@@ -1,9 +1,9 @@
 # FIFA World Cup Data Analysis ⚽
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes FIFA World Cup datasets using Python.
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -11,14 +11,14 @@ This project analyzes FIFA World Cup datasets using Python.
 - Seaborn
 - Google Colab
 
-## 📊 Analysis Includes
+## Analysis Includes
 - Match statistics
 - Goal analysis
 - Attendance trends
 - Winning patterns
 
-## 📁 Dataset
+## Dataset
 - WorldCupMatches.csv
 - WorldCupPlayers.csv
 - WorldCups.csv
--
+
