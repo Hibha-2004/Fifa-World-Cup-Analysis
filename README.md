@@ -1,15 +1,15 @@
-#⚽ FIFA World Cup Data Analysis
+⚽ FIFA World Cup Data Analysis
 
 ---
 
-##📌 Project Overview
+📌 Project Overview
 
 This project explores and analyzes historical FIFA World Cup data using Python.
 It focuses on uncovering meaningful insights, trends, and patterns from past tournaments through data visualization and statistical analysis.
 
 ---
 
-##🛠️ Technologies Used
+🛠️ Technologies Used
 
 - Python
 
@@ -25,27 +25,27 @@ It focuses on uncovering meaningful insights, trends, and patterns from past tou
 
 ---
 
-##📊 Analysis Performed
+📊 Analysis Performed
 
-###⚽ Match Statistics Analysis
+⚽ Match Statistics Analysis
 
 - Goals scored, match outcomes, and performance trends
 
-###🥅 Goal Analysis
+🥅 Goal Analysis
 
 - Goal distribution across tournaments and teams
 
-###👥 Attendance Trends
+👥 Attendance Trends
 
 - Stadium attendance patterns over the years
 
-###🏆 Winning Patterns
+🏆 Winning Patterns
 
 - Most successful teams and championship trends
 
 ---
 
-##📂 Dataset
+📂 Dataset
 
 The project uses the following datasets:
 
@@ -57,7 +57,7 @@ The project uses the following datasets:
 
 ---
 
-##🚀 Key Insights
+🚀 Key Insights
 
 - Identified trends in goal scoring across different eras
 
